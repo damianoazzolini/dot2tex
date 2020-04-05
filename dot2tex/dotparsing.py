@@ -108,7 +108,7 @@ def windows(iterable, length=2, overlap=0, padding=True):
 def nsplit(seq, n=2):
     """Split a sequence into pieces of length n
 
-    If the lengt of the sequence isn't a multiple of n, the rest is discareded.
+    If the length of the sequence isn't a multiple of n, the rest is discarded.
     Note that nsplit will strings into individual characters.
 
     Examples:
